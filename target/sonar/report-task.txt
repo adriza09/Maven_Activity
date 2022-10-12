@@ -1,0 +1,6 @@
+projectKey=day4MavenActivity:Maven_Project_Activity
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/day4MavenActivity:Maven_Project_Activity
+ceTaskId=AYPLyoc2EN3wk1xoQuY1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYPLyoc2EN3wk1xoQuY1
